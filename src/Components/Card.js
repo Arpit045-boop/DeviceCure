@@ -1,11 +1,10 @@
 import React from "react";
 
 function Card(props) {
-    return (<>
-        <h3>{props.services}</h3>
+    return (<div>
         <img className="imgService" src={props.imgUrl}
         />
-    </>)
+    </div>)
 }
 
 export default Card;

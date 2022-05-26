@@ -1,6 +1,6 @@
 const service = [
     {
-        services: "Recycle phone",
+
         imgUrl: "recycle.jpg",
         imgQul: "https://4.imimg.com/data4/GR/GS/MY-759016/pick-up-services-250x250.jpg",
         heading: "FREE PICK/DROP",
@@ -10,7 +10,7 @@ const service = [
         descWork: "Tell us what you want us to repair and schedule a technician visit."
     },
     {
-        services: "Refurbished Phones",
+
         imgUrl: "refurni.jpg",
         imgQul: "https://media.istockphoto.com/vectors/year-warranty-logo-vector-id1171690216?k=20&m=1171690216&s=170667a&w=0&h=axHaa-itqqNur7MwdLZfqlCsRK25s9T9AsH5ELWkwOQ=",
         heading: "1 YEAR WARRANTY",
@@ -20,7 +20,7 @@ const service = [
         descWork: "Our technician will come and collect your device from your location."
     },
     {
-        services: "Repair Phone",
+
         imgUrl: "repair.png",
         imgQul: "https://i.pinimg.com/736x/f2/04/e2/f204e2bc7b3ca44c8ffa6e9c630dbc5e.jpg",
         heading: "REPAIR IN 4 HOURS",
@@ -30,7 +30,7 @@ const service = [
         descWork: "We repair mobile as new and technician will handover your device to you."
     },
     {
-        services: "Visit Our Office",
+
         imgUrl: "visit.png",
         imgQul: "https://www.freepnglogos.com/uploads/like-png/youtube-like-transparent-png-pictures-icons-and-png-30.png",
         heading: "BEST QUALITY PARTS",

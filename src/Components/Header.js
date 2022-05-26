@@ -4,7 +4,7 @@ function Header() {
         <header>
             <nav className="navbar navbar-expand-lg">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">Device Cure</a>
+                    <a className="navbar-brand " href="#"><img src="logo.png"/></a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -35,8 +35,8 @@ function Header() {
 
             <div className="row-title row">
                 <div className="col-lg-6">
-                    <h1 className="big-heading mx-5" >Doorstep Mobile Repair in Jaipur Rajasthan</h1>
-                    <button type="button" className="btn btn-dark btn-lg download-button mx-5">Contact Us</button>
+                    <h1 className="big-heading " >Doorstep Mobile Repair in Jaipur Rajasthan</h1>
+                    <button type="button" className="btn btn-dark btn-lg contact-button">Contact Us</button>
                 </div>
                 <div className="col-lg-6">
                     <img className="mobile" src="samle.jpg" />

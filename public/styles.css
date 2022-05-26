@@ -6,6 +6,10 @@
 
 header {
     background-color: lightblue;
+    padding: 20px 165px 160px 165px;
+}
+.navbar-brand{
+    margin-right: 152px;
 }
 
 .row-title {
@@ -13,11 +17,10 @@ header {
 }
 
 .big-heading {
-    font-size: 3.5rem;
     line-height: 1.5;
 }
 
-.download-button {
+.contact-button {
     margin: 5% 3% 5% 0;
 }
 
@@ -27,12 +30,14 @@ header {
     position: absolute;
     right: 20%;
 }
-
-.imgService {
-    height: 160px;
-    width: 150px;
+.cardMain{
+    padding: 50px 165px 10px 165px;
 }
-
+.imgService {
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+}
 .special {
     text-align: center;
     overflow: hidden;

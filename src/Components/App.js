@@ -11,26 +11,28 @@ function App() {
   return (
     <>
       <Header />
-      <div className="row-title row">
-        <div className="special col-lg-3">
-          <Card services={service[0].services}
+      <div className="cardMain">
+      <div className="row">
+        <div className="imgset col-lg-3">
+          <Card
             imgUrl={service[0].imgUrl}
           />
         </div>
-        <div className="special col-lg-3">
-          <Card services={service[1].services}
+        <div className="imgset col-lg-3">
+          <Card
             imgUrl={service[1].imgUrl}
           />
         </div>
-        <div className="special col-lg-3">
-          <Card services={service[2].services}
+        <div className="imgset col-lg-3">
+          <Card
             imgUrl={service[2].imgUrl}
           />
         </div>
-        <div className="special col-lg-3">
-          <Card services={service[3].services}
+        <div className="imgset col-lg-3">
+          <Card
             imgUrl={service[3].imgUrl}
           />
+        </div>
         </div>
       </div>
       <Qualities />
